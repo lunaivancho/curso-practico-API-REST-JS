@@ -1,0 +1,19 @@
+{
+  "name": "curso-practico-api-rest-js",
+  "version": "1.0.0",
+  "description": "curso practico de consumo de api",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lunaivancho/curso-practico-API-REST-JS.git"
+  },
+  "author": "ivancholunav@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lunaivancho/curso-practico-API-REST-JS/issues"
+  },
+  "homepage": "https://github.com/lunaivancho/curso-practico-API-REST-JS#readme"
+}
